@@ -53,7 +53,6 @@ rm -rf $1/app/AnalyticsCore
 rm -rf $1/priv-app/Backup
 rm -rf $1/priv-app/Updater
 rm -rf $1/priv-app/Velvet
-rm -rf $1/priv-app/MiService
 rm -rf $1/priv-app/GlobalUserGuide
 rm -rf $1/priv-app/MiDrop
 rm -rf $1/priv-app/Turbo
@@ -62,7 +61,6 @@ rm -rf $1/priv-app/facebook-installer
 rm -rf $1/priv-app/facebook-services
 rm -rf $1/priv-app/Tag
 rm -rf $1/data-app/XiaoAiSpeechEngine
-rm -rf $1/data-app/Email
 rm -rf $1/data-app/BaiduIME
 rm -rf $1/data-app/MiFinance
 rm -rf $1/data-app/Userguide
@@ -77,11 +75,8 @@ rm -rf $1/data-app/XMRemoteController
 rm -rf $1/data-app/com.xunmeng.pinduoduo
 rm -rf $1/data-app/MiLiveAssistant
 rm -rf $1/data-app/MiuiDriveMode
-rm -rf $1/data-app/MiMobileNoti
-rm -rf $1/data-app/XiaomiJrSecurity
 rm -rf $1/data-app/XMPass
 rm -rf $1/data-app/SmartTravel
-rm -rf $1/data-app/MiDrive
 rm -rf $1/data-app/com.eg.android.AlipayGphone
 rm -rf $1/data-app/MiCreditInStub
 rm -rf $1/product/app/Gmail2
