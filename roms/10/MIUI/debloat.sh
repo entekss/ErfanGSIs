@@ -5,10 +5,8 @@ thispath=`cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd`
 
 # Drop system useless apks
 rm -rf $1/app/cit
-rm -rf $1/app/MiuiCompass
 rm -rf $1/app/MiuiVideoGlobal
 rm -rf $1/app/PaymentService
-rm -rf $1/app/Calculator
 rm -rf $1/app/VoiceAssist
 rm -rf $1/app/MiRadio
 rm -rf $1/app/Mipay
@@ -53,19 +51,11 @@ rm -rf $1/app/Netflix_activation
 rm -rf $1/app/IdMipay
 rm -rf $1/app/AnalyticsCore
 rm -rf $1/priv-app/Backup
-rm -rf $1/priv-app/Browser
-rm -rf $1/priv-app/Calendar
-rm -rf $1/priv-app/MiuiScanner
 rm -rf $1/priv-app/Updater
 rm -rf $1/priv-app/Velvet
-rm -rf $1/priv-app/MiuiVideo
-rm -rf $1/priv-app/PersonalAssistant
 rm -rf $1/priv-app/MiService
-rm -rf $1/priv-app/Music
-rm -rf $1/priv-app/Provision
 rm -rf $1/priv-app/GlobalUserGuide
 rm -rf $1/priv-app/MiDrop
-rm -rf $1/priv-app/PersonalAssistantGlobal
 rm -rf $1/priv-app/Turbo
 rm -rf $1/priv-app/YellowPage
 rm -rf $1/priv-app/facebook-installer
