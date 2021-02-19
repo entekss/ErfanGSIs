@@ -74,7 +74,6 @@ rm -rf $1/data-app/com.taobao.taobao
 rm -rf $1/data-app/Youpin
 rm -rf $1/data-app/com.baidu.haokan
 rm -rf $1/data-app/XMRemoteController
-rm -rf $1/data-app/com.moji.mjweather
 rm -rf $1/data-app/com.xunmeng.pinduoduo
 rm -rf $1/data-app/MiLiveAssistant
 rm -rf $1/data-app/MiuiDriveMode
