@@ -4,18 +4,18 @@ systempath=$1
 thispath=`cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd`
 
 rm -rf $1/app/cit
-rm -rf $1/app/MiuiCompass
+#rm -rf $1/app/MiuiCompass
 rm -rf $1/app/MiuiVideoGlobal
 rm -rf $1/app/PaymentService
-rm -rf $1/app/Calculator
+#rm -rf $1/app/Calculator
 rm -rf $1/priv-app/Backup
 rm -rf $1/priv-app/Browser
-rm -rf $1/priv-app/Calendar
-rm -rf $1/priv-app/MiuiScanner
+#rm -rf $1/priv-app/Calendar
+#rm -rf $1/priv-app/MiuiScanner
 rm -rf $1/priv-app/Updater
 rm -rf $1/priv-app/Velvet
-rm -rf $1/priv-app/Weather
-rm -rf $1/priv-app/WeatherProvider
+#rm -rf $1/priv-app/Weather
+#rm -rf $1/priv-app/WeatherProvider
 rm -rf $1/app/VoiceAssist
 rm -rf $1/app/MiRadio
 rm -rf $1/app/Mipay
@@ -23,7 +23,7 @@ rm -rf $1/app/NexyPay
 rm -rf $1/app/com.miui.qr
 rm -rf $1/app/MiuiBugReport
 rm -rf $1/priv-app/MiuiVideo
-rm -rf $1/priv-app/PersonalAssistant
+#rm -rf $1/priv-app/PersonalAssistant
 rm -rf $1/priv-app/MiService
 rm -rf $1/priv-app/Music
 rm -rf $1/data-app/MiShop
@@ -31,8 +31,8 @@ rm -rf $1/data-app/XiaoAiSpeechEngine
 rm -rf $1/data-app/Email
 rm -rf $1/data-app/BaiduIME
 rm -rf $1/data-app/MiFinance
-rm -rf $1/data-app/MiuiScanner
-rm -rf $1/data-app/MiuiCompass
+#rm -rf $1/data-app/MiuiScanner
+#rm -rf $1/data-app/MiuiCompass
 rm -rf $1/data-app/Userguide
 rm -rf $1/data-app/Huanji
 rm -rf $1/data-app/VirtualSim
@@ -46,7 +46,7 @@ rm -rf $1/data-app/XMRemoteController
 rm -rf $1/data-app/com.moji.mjweather
 rm -rf $1/data-app/MiGalleryLockscreen
 rm -rf $1/data-app/com.xunmeng.pinduoduo
-rm -rf $1/data-app/Weather
+#rm -rf $1/data-app/Weather
 rm -rf $1/data-app/CleanMaster
 rm -rf $1/data-app/MiLiveAssistant
 rm -rf $1/data-app/MiuiDriveMode
@@ -87,7 +87,7 @@ rm -rf $1/priv-app/GameCenterGlobal
 rm -rf $1/priv-app/GlobalUserGuide
 rm -rf $1/priv-app/MiDrop
 rm -rf $1/priv-app/MiuiBrowserGlobal
-rm -rf $1/priv-app/PersonalAssistantGlobal
+#rm -rf $1/priv-app/PersonalAssistantGlobal
 rm -rf $1/priv-app/SoundRecorder
 rm -rf $1/priv-app/Turbo
 rm -rf $1/priv-app/YellowPage
@@ -118,7 +118,7 @@ rm -rf $1/app/mi_connect_service
 rm -rf $1/app/CtsShimPrebuilt
 rm -rf $1/app/FM
 rm -rf $1/app/FileExplorer_old
-rm -rf $1/app/Notes
+#rm -rf $1/app/Notes
 rm -rf $1/app/Netflix_activation
 rm -rf $1/app/IdMipay
 rm -rf $1/app/AnalyticsCore
