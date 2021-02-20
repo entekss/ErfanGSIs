@@ -1,4 +1,5 @@
-@@ -10,6 +10,21 @@ rm -rf $1/app/MiuiVideoGlobal
+-10,6 +10,21 
+rm -rf $1/app/MiuiVideoGlobal
 #rm -rf $1/app/Notes
 rm -rf $1/app/PaymentService
 #rm -rf $1/app/Calculator
